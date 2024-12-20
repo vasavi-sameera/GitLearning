@@ -1,2 +1,2 @@
 Sample to Learn Git
-;dld
+clone example
